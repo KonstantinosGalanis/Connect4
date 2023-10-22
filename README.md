@@ -29,3 +29,14 @@ completed, the following information is displayed:
 3. if the AI ​​module or the user won
 
 ● Help: The menu is disabled.
+
+# Compilation and Execution
+
+First download the the [org.json](https://repo1.maven.org/maven2/org/json/json/20230227/json-20230227.jar) library. Then compile the file using the command:
+```
+javac -cp .:filepath/to/json/file/json-20230227.jar Connect4.java
+```
+Finaly xecute the program using the command:
+```
+java -cp .:filepath/to/json/file/json-20230227.jar Connect4
+```
