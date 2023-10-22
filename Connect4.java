@@ -1,5 +1,3 @@
-package ce326.hw3;
-
 import java.util.Scanner;
 import javax.swing.*;
 import java.io.ObjectInputStream;
