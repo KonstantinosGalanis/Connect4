@@ -10,9 +10,9 @@ The main menu conatains the following features:
 a list of difficulty levels that the player can choose from. These levels are displayed with
 in the JMenuItems format and are as follows:
 
-    1. Trivial: The AI ​​module looks at one move in depth.
-    2. Medium: The AI ​​module looks three moves deep.
-    3. Hard: The AI ​​module looks five moves deep.
+        1. Trivial: The AI ​​module looks at one move in depth.
+        2. Medium: The AI ​​module looks three moves deep.
+        3. Hard: The AI ​​module looks five moves deep.
 
 -1st Player: A two-option menu appears via menu radio button with the options “AI” and
 "You". The AI ​​option is defaulted at program startup and gives the first
@@ -24,8 +24,8 @@ game that will be played through the “New Game” menu.
 list (via JList) of previously completed games. For every game he has
 completed, the following information is displayed:
 
-    1. start date and time
-    2. the difficulty level of the AI ​​module
-    3. if the AI ​​module or the user won
+        1. start date and time
+        2. the difficulty level of the AI ​​module
+        3. if the AI ​​module or the user won
 
 -Help: The menu is disabled.
