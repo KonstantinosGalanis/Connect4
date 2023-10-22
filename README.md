@@ -6,7 +6,7 @@ This is a connect 4 game using [MinMax with alpha-beta pruning](https://www.yout
 # Functionality
 The main menu conatains the following features:
 
-*New Game: This menu is where you start a new game. By selecting it, it appears
+*[New Game]: This menu is where you start a new game. By selecting it, it appears
 a list of difficulty levels that the player can choose from. These levels are displayed with
 in the JMenuItems format and are as follows:
 
@@ -14,7 +14,7 @@ in the JMenuItems format and are as follows:
         2. Medium: The AI ​​module looks three moves deep.
         3. Hard: The AI ​​module looks five moves deep.
 
-*1st Player: A two-option menu appears via menu radio button with the options “AI” and
+*[1st Player]: A two-option menu appears via menu radio button with the options “AI” and
 "You". The AI ​​option is defaulted at program startup and gives the first
 movement of each new game to the AI ​​module, while the You option to the application user. The choice
 “AI” or “You” has no effect on the current game and is about starting the next one
